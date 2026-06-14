@@ -1,0 +1,1 @@
+{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyPAtF2MeTE5+AslkbAdTQ2X"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":null,"metadata":{"id":"624mCti5pU6r"},"outputs":[],"source":["web: uvicorn app:app --host 0.0.0.0 --port $PORT"]}]}
